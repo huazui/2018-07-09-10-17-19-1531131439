@@ -1,5 +1,5 @@
 package practice01;
-
+//预计五分钟，实际三分钟，因为有很多方法可以直接生成。
 public class Person {
     public Person(){}
     public Person(String name,int age){
